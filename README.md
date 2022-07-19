@@ -3,7 +3,12 @@
 
 ## Installing / Getting started
 
+Start server dev webpack
 ```shell
-npm run server-dev-webpack // start server dev webpack
-npm run server-dev-vite // start server dev vite (required node >14.18)
+npm run server-dev-webpack 
+```
+
+start server dev vite (required node >14.18)
+```shell
+npm run server-dev-vite
 ```
