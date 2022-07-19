@@ -48,3 +48,4 @@ Thumbs.db
 *.wmv
 
 .env.development
+dist-webpack/webpack.bundle.js

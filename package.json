@@ -4,10 +4,10 @@
   "description": "demo bundle",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode=development",
-    "server-dev-webpack": "webpack serve --mode=development",
-    "server-dev-vite": "vite"
+    "build-vite": "vite build",
+    "build-webpack": "webpack --mode=production",
+    "server-dev-vite": "vite",
+    "server-dev-webpack": "webpack serve --mode=development"
   },
   "keywords": [
     "demo",
