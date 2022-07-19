@@ -1,0 +1,28 @@
+{
+  "name": "bunlde",
+  "version": "1.0.0",
+  "description": "demo bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development",
+    "server-dev-webpack": "webpack serve --mode=development",
+    "server-dev-vite": "vite"
+  },
+  "keywords": [
+    "demo",
+    "bundle"
+  ],
+  "author": "dathacky",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "vite": "^3.0.2",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3"
+  }
+}
