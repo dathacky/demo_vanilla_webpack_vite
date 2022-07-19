@@ -8,7 +8,7 @@ Start server dev webpack
 npm run server-dev-webpack 
 ```
 
-start server dev vite (required node >14.18)
+Start server dev vite (required node >14.18)
 ```shell
 npm run server-dev-vite
 ```
