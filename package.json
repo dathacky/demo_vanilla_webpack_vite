@@ -6,6 +6,7 @@
   "scripts": {
     "build-vite": "vite build",
     "build-webpack": "webpack --mode=production",
+    "server-dev-vite-prod": "vite --mode=production",
     "server-dev-vite": "vite",
     "server-dev-webpack": "webpack serve --mode=development"
   },
