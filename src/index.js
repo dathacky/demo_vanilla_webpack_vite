@@ -1,4 +1,4 @@
-import get from 'lodash/get';
+import { get } from 'lodash';
 import { greeting } from './module';
 import { COLOR } from './module-2';
 import './style.css';
